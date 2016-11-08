@@ -7,6 +7,9 @@ public class User{
     System.out.println("this is a person");
   }
   
-
+  public void playing（){
+  
+    System.out.println("i am playing");
+  }
 
 }
